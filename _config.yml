@@ -14,9 +14,7 @@ author: Daniel Pailañir
 
 navbar-links:
   About Me: "aboutme"
-  Teaching: 
-    - Microeconomics:
-    - Macroeconomics:
+  Teaching: "teaching"
 
 # --- Logo --- #
 
