@@ -8,4 +8,5 @@ title: Teaching
 - ECO Microeconomics
 - ECO Macroeconomics
 
-material under construction...
+{: .box-note}
+**Note:** This is under construction.
