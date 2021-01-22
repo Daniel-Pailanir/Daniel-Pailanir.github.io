@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Welcome
 subtitle: I’m a MA student in Economics at University of Chile
 ---
