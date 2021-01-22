@@ -14,6 +14,6 @@ Please find my [CV here](docs/DanielPailanir-cv.pdf).
 -[Introduction](../pdf/DanielPailanir-cv.pdf)
 -[Introduction](/pdf/DanielPailanir-cv.pdf)
 -[Introduction](pdf/DanielPailanir-cv.pdf)
--[Introduction](https://daniel-pailanir.github.io/pdf/DanielPailanir-cv.pdf)
+-[Introduction](https://daniel-pailanir.github.io/aboutme/pdf/DanielPailanir-cv.pdf)
 
 This is under construction
