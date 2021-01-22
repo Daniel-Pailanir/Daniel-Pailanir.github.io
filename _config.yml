@@ -17,9 +17,6 @@ navbar-links:
   Teaching: 
     - Microeconomics:
     - Macroeconomics:
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
@@ -45,10 +42,6 @@ social-network-links:
   twitter: DanielPailanir
   linkedin: danielpailanir
 #  google-scholar: your google scholar
-
-# If you want to show a link to an RSS in the footer, add the site description here.
-# If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
