@@ -9,6 +9,7 @@ My name is Daniel Pailañir...
 - I love learn some code
 - I love play chess
 
-Please find my [CV here](/docs/DanielPailanir-cv.pdf).
+Please find my [CV here](docs/DanielPailanir-cv.pdf).
+
 [Introduction](../docs/DanielPailanir-cv.pdf)
 This is under construction
