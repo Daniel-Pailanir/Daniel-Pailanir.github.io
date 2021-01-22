@@ -13,4 +13,4 @@ Please find my [CV here](https://daniel-pailanir.github.io/aboutme/pdf/DanielPai
 
 This is under construction
 
-[CV here](https://daniel-pailanir.github.io/aboutme/pdf/DanielPailanir-cv.pdf)
+[CV here](../pdf/DanielPailanir-cv.pdf)
