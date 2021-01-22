@@ -12,5 +12,3 @@ My name is Daniel Pailañir...
 Please find my [CV here](../pdf/DanielPailanir-cv.pdf)
 
 This is under construction
-
-[CV here](../pdf/DanielPailanir-cv.pdf)
