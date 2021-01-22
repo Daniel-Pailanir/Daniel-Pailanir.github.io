@@ -10,5 +10,5 @@ My name is Daniel Pailañir...
 - I love play chess
 
 Please find my [CV here](/docs/DanielPailanir-cv.pdf).
-
+[Introduction](../docs/DanielPailanir-cv.pdf)
 This is under construction
