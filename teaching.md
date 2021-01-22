@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 ## TEACHING ASSISTANT
-### _University of Santiago of Chile_
+### [_University of Santiago of Chile_](https://fae.usach.cl/)
 - ECO Microeconomics
 - ECO Macroeconomics
 
