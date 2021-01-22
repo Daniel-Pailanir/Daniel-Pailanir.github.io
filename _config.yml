@@ -15,8 +15,8 @@ author: Daniel Pailañir
 navbar-links:
   About Me: "aboutme"
   Teaching: 
-    - Microeconomics
-    - Macroeconomics
+    - "Microeconomics"
+    - "Macroeconomics"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
