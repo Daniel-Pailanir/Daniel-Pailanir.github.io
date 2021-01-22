@@ -9,7 +9,7 @@ subtitle: Below you will find material that can help you !!
 Here is a compilation of exercises that I did as a teacher's assistant:
 
 #### [_University of Santiago of Chile_](https://fae.usach.cl/) - UNDEGRADUATE TEACHING ASSISTANT
-- ECO Introdution to Economic
+- ECO Introdution to Economics
 - ECO Principles of Microeconomics 
 - ECO Microeconomics I
 - ECO Macroeconomics II
