@@ -12,3 +12,5 @@ My name is Daniel Pailañir...
 Please find my [CV here](https://daniel-pailanir.github.io/aboutme/pdf/DanielPailanir-cv.pdf)
 
 This is under construction
+
+[CV here](https://daniel-pailanir.github.io/aboutme/pdf/DanielPailanir-cv.pdf)
