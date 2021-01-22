@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 
+title: Teaching
 ---
 
 # TEACHING ASSISTANT
-## University of Santiago of Chile
+## _University of Santiago of Chile_
 - ECO Microeconomics
 - ECO Macroeconomics
 
