@@ -17,4 +17,4 @@ Here is a compilation of exercises that I did as a teacher's assistant:
 
 
 {: .box-note}
-**Note:** This is under construction.
+**Note:** This material is only available in Spanish
