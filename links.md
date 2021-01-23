@@ -7,4 +7,4 @@ subtitle: Some interesting blog and pages
 ### Blogs
 
 ### Links
-- [JEP in the Classroom](Usehttps://www.aeaweb.org/journals/jep/classroom)
+- [JEP in the Classroom](https://www.aeaweb.org/journals/jep/classroom)
