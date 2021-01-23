@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Teaching
+full-width: true
 subtitle: Below you will find material that can help you !!
 ---
 
