@@ -6,8 +6,9 @@ subtitle: R and Stata, maybe another one in the future ...
 
 This is **recocl** works. 
 
-```{stata}
-recocl comuna, year(2017)
+```{stata, collectcode=TRUE}
+sysuse auto
+summarize
 ```
 
 {: .box-note}
