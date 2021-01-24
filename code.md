@@ -12,3 +12,10 @@ Chile has changed his municipal code a couple of times. Currently, not all datab
 
 {: .box-note}
 **Note:** Install in Stata typing ssc install _recocl_.
+
+#### **grvar** - Apply a non-constant growth rate to a variable
+
+Calculate the future values of a variable from the initial value and a non-constant growth/decrease rate (e.g. inflation). It is useful when we want to fit a variable with a growth rate in a time serie or panel data.
+
+{: .box-note}
+**Note:** Install in Stata typing ssc install _grvar_.
