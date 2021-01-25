@@ -1,10 +1,8 @@
 ---
 layout: page
 title: External Links
-subtitle: Some interesting blog and pages
+subtitle: Some interesting Links
 ---
-
-### Blogs
 
 ### Links
 - [JEP in the Classroom](https://www.aeaweb.org/journals/jep/classroom) - Some JEP Articles Recommended for Classroom Use
