@@ -13,8 +13,8 @@ author: Daniel Pailañir
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Code: "code"
   Teaching: "teaching"
+  Code: "code"
   About me: "aboutme"
   Links: "links"
 
