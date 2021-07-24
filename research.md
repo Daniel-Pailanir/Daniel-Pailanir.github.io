@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+full-width: true
 ---
 
 ## Work in Progress
