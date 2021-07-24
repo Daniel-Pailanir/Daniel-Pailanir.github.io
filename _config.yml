@@ -53,7 +53,7 @@ share-links-active:
   vk: false
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words (50 default)
-excerpt_length: 60
+excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
