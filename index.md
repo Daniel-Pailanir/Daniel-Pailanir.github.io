@@ -10,4 +10,4 @@ I am a Economist from [University of Santiago of Chile](https://www.usach.cl/) a
 
 You can find my [CV here](../pdf/DanielPailanir_cv.pdf).
 
-My email is _**daniel.pailanir@gmail.com**_ or _**dpailanir@fen.uchile.cl**_
+You can contact me at _**daniel.pailanir@gmail.com** & **dpailanir@fen.uchile.cl**_
