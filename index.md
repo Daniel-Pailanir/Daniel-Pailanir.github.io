@@ -10,4 +10,4 @@ I am a Economist from [Univerisdad de Santiago de Chile](https://www.usach.cl/) 
 
 You can find my [CV here](../pdf/DanielPailanir_cv.pdf).
 
-You can contact me at **dpailanir@fen.uchile.cl**_
+You can contact me at _**dpailanir@fen.uchile.cl**_
