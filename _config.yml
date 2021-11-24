@@ -5,9 +5,9 @@
 
 # --- Required options --- #
 # url is the full website URL
-url: "https://daniel-pailanir.github.io"
+#url: "https://daniel-pailanir.github.io"
 # baseurl is the website's URL without the hostname
-baseurl: ""
+#baseurl: ""
 
 # Name of website
 title: Daniel Pailañir
@@ -48,7 +48,7 @@ social-network-links:
 #  google-scholar: your google scholar
 
 # --- General options --- #
-url-pretty: "danielpailanir.com"
+#url-pretty: "danielpailanir.com"
 
 # Select which social network share links to show in posts
 share-links-active:
