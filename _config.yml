@@ -6,6 +6,8 @@
 # --- Required options --- #
 # url is the full website URL
 url: "https://daniel-pailanir.github.io"
+# baseurl is the website's URL without the hostname
+baseurl: ""
 
 # Name of website
 title: Daniel Pailañir
