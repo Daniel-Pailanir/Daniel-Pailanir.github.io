@@ -4,6 +4,8 @@
 # the initial set up you won't need to come back to this file often.
 
 # --- Required options --- #
+# url is the full website URL
+#url: "https://daniel-pailanir.github.io"
 
 # Name of website
 title: Daniel Pailañir
