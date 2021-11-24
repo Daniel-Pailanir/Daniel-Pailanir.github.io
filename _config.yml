@@ -44,6 +44,7 @@ social-network-links:
 #  google-scholar: your google scholar
 
 # --- General options --- #
+url-pretty: "danielpailanir.com"
 
 # Select which social network share links to show in posts
 share-links-active:
