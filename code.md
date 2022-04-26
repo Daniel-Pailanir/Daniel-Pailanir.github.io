@@ -7,7 +7,7 @@ subtitle: Just for fun!
 ## Stata Programs
 ### [**sdid**](https://econpapers.repec.org/software/bocbocode/S459058.htm) - Synthetic Difference-in-Differences
 
-Written with Damian Clarke. This Stata package implements the synthetic difference-in-differences estimation procedure, along with a range of inference procedures, following Arkhangelsky et al., (2021). Here we provide a native Stata implementation, principally written in Mata. This package is currently under active development. You can see the latest version and some examples in my repo [**sdid**](https://github.com/Daniel-Pailanir/sdid).
+Written with [Damian Clarke](https://www.damianclarke.net/). This Stata package implements the synthetic difference-in-differences estimation procedure, along with a range of inference procedures, following Arkhangelsky et al., (2021). Here we provide a native Stata implementation, principally written in Mata. This package is currently under active development. You can see the latest version and some examples in my repo [**sdid**](https://github.com/Daniel-Pailanir/sdid).
 
 {: .box-note}
 **Note:** Install in Stata typing: _ssc install **sdid**_
