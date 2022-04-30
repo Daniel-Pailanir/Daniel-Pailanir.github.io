@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Research
-full-width: true
+layout: home
+title: References
 ---
 
 (Damian Clarke)[https://www.damianclarke.net/] - dclarke@fe.uchile.cl
