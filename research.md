@@ -16,6 +16,6 @@ full-width: true
 <summary>Media Coverage</summary>
 <br>
   
-[[U. de Chile](https://econ.uchile.cl/es/noticia/violencia-infantil-silenciada-estudio-en-chile-advierte-falta-de-canales-de-denuncia-durante-la-pandemia)] 
+[U. de Chile](https://econ.uchile.cl/es/noticia/violencia-infantil-silenciada-estudio-en-chile-advierte-falta-de-canales-de-denuncia-durante-la-pandemia) 
   
 </details>
