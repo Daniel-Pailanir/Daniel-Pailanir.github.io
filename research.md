@@ -18,12 +18,6 @@ Ongoing school closures and gradual reopenings have been occurring since the beg
 [2]: https://twitter.com/decon_uchile/status/1547244841809100800
 [3]: https://github.com/Daniel-Pailanir/childrenSchools
 
-
-**Media Coverage:** [[U. de Chile](https://econ.uchile.cl/es/noticia/violencia-infantil-silenciada-estudio-en-chile-advierte-falta-de-canales-de-denuncia-durante-la-pandemia)]  [[twitter thread](https://twitter.com/decon_uchile/status/1547244841809100800)] &nbsp; &nbsp; **Material:** [[replication](https://github.com/Daniel-Pailanir/childrenSchools)]
-
-
-
-
 ---
 ["The Use of Quantile Regression in Economic History"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908874) (with Damian Clarke _&_ Manuel Llorca)
 
