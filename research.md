@@ -6,6 +6,9 @@ full-width: true
 
 ## Working Papers
 ---
+["Synthetic Difference In Differences Estimation"](https://arxiv.org/abs/2301.11859) (with Susan Athey, Damian Clarke _&_ Guido Imbens). 2023.<br/>
+
+---
 ["Schools as a Social Safety Net: The Impact of School Closures and Reopenings on Rates of Reporting of Violence Against Children"](https://arxiv.org/abs/2206.14612) (with Damian Clarke, Pilar Larroulet _&_ Daniela Quintana). 2022.<br/>
 <small>[ *Media coverage*: [U. de Chile][1], [twitter][2] | [Material][3] ] </small>
 
