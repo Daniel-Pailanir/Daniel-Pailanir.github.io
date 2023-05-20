@@ -4,6 +4,10 @@ title: Research
 full-width: true
 ---
 
+## Publications
+["The Use of Quantile Regression in Economic History"](https://www.tandfonline.com/doi/full/10.1080/01615440.2023.2198272) (with Damian Clarke _&_ Manuel Llorca)<br/>
+R&R **Historical Methods** 56(2):115-132 (2023).
+
 ## Working Papers
 ---
 ["Synthetic Difference In Differences Estimation"](https://arxiv.org/abs/2301.11859) (with Susan Athey, Damian Clarke _&_ Guido Imbens). 2023.<br/>
@@ -17,7 +21,6 @@ full-width: true
 [3]: https://github.com/Daniel-Pailanir/childrenSchools
 
 ---
-["The Use of Quantile Regression in Economic History"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908874) (with Damian Clarke _&_ Manuel Llorca)<br/>
-R&R **Historical Methods**.
+
   
 
