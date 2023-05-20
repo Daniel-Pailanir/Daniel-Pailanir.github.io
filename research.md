@@ -6,7 +6,7 @@ full-width: true
 
 ## Publications
 ["The Use of Quantile Regression in Economic History"](https://www.tandfonline.com/doi/full/10.1080/01615440.2023.2198272) (with Damian Clarke _&_ Manuel Llorca)<br/>
-R&R **Historical Methods** 56(2):115-132 (2023).
+**Historical Methods** 56(2):115-132 (2023).
 
 ## Working Papers
 ---
