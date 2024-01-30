@@ -9,7 +9,7 @@ subtitle: Just for fun!
 Written with [Damian Clarke](https://www.damianclarke.net/). Stata implementation of the Two-Stage Cluster Bootstrap (TSCB) estimator described in [Abadie et al (2023)](https://academic.oup.com/qje/article/138/1/1/6750017?login=true). These programs return standard errors for regression analysis of some outcome on a treatment of interest using either simple OLS, or fixed effects models, while accounting for clustering by group.
 
 ### [**ccv**](https://github.com/Daniel-Pailanir/TSCB-CCV) - Causal Cluster Variance
-Written with [Damian Clarke](https://www.damianclarke.net/). Stata implementation of the Causal Cluster Variance (CCV) estimator described in [Abadie et al (2023)](https://academic.oup.com/qje/article/138/1/1/6750017?login=true). These programs return standard errors for regression analysis of some outcome on a treatment of interest using either simple OLS, or fixed effects models, while accounting for clustering by group
+Written with [Damian Clarke](https://www.damianclarke.net/). Stata implementation of the Causal Cluster Variance (CCV) estimator described in [Abadie et al (2023)](https://academic.oup.com/qje/article/138/1/1/6750017?login=true). These programs return standard errors for regression analysis of some outcome on a treatment of interest using either simple OLS, or fixed effects models, while accounting for clustering by group.
 
 ### [**sdid**](https://econpapers.repec.org/software/bocbocode/S459058.htm) - Synthetic Difference-in-Differences
 
