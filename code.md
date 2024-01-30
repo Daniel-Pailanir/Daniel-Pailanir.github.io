@@ -5,6 +5,12 @@ subtitle: Just for fun!
 ---
 
 ## Stata Programs
+### [**tscb**](https://github.com/Daniel-Pailanir/TSCB-CCV) - Two-Stage Cluster Bootstrap Variance
+Written with [Damian Clarke](https://www.damianclarke.net/). Stata implementation of the Two-Stage Cluster Bootstrap (TSCB) estimator described in [Abadie et al (2023)](https://academic.oup.com/qje/article/138/1/1/6750017?login=true). These programs return standard errors for regression analysis of some outcome on a treatment of interest using either simple OLS, or fixed effects models, while accounting for clustering by group.
+
+### [**ccv**](https://github.com/Daniel-Pailanir/TSCB-CCV) - Causal Cluster Variance
+Written with [Damian Clarke](https://www.damianclarke.net/). Stata implementation of the Causal Cluster Variance (CCV) estimator described in [Abadie et al (2023)](https://academic.oup.com/qje/article/138/1/1/6750017?login=true). These programs return standard errors for regression analysis of some outcome on a treatment of interest using either simple OLS, or fixed effects models, while accounting for clustering by group
+
 ### [**sdid**](https://econpapers.repec.org/software/bocbocode/S459058.htm) - Synthetic Difference-in-Differences
 
 Written with [Damian Clarke](https://www.damianclarke.net/). This Stata package implements the synthetic difference-in-differences estimation procedure, along with a range of inference procedures, following Arkhangelsky et al., (2021). Here we provide a native Stata implementation, principally written in Mata. This package is currently under active development. You can see the latest version and some examples in my repo [**sdid**](https://github.com/Daniel-Pailanir/sdid).
