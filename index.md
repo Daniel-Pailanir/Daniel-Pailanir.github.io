@@ -10,4 +10,4 @@ I am an economist and I currently work at the Chilean Ministry of Economy, Devel
 
 Here you can find my [CV](../pdf/DanielPailanir_cv.pdf).
 
-You can contact me at _**dpailanir@economia.cl**_ or _**dpailanir@fen.uchile.cl**_
+You can contact me at _**dpailanir@fen.uchile.cl**_
